@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Tadikamalla</h1>
 <h3 align="center">Passionate CSE student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavitadikamalla&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavitadikamalla" /> </p>
 
